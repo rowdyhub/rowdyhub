@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, i am Sergey 👋
 
-<!--
-**rowdyhub/rowdyhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/34357771/147701096-0db0d6a2-8f91-473b-8d0e-630dcd6228c9.jpg" style="width: 25%;" align="right">
 
-Here are some ideas to get you started:
+> 👦 I am a JavaScript developer from Russia.
+- 👨‍💻 I am currently working on developing a website in ReactJS
+- 💻 I also code in PHP / HTML-CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+### Привет, меня зовут Сергей 👋
+
+> 👦 Я JavaScript разработчик и России.
+- 👨‍💻 Сейчас занимаюсь разработкой web-сайтов на ReactJS
+- 💻 Так же пишу на PHP / HTML-CSS
