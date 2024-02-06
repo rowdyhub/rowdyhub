@@ -2,7 +2,7 @@
 
 
 - 👦 I am a JavaScript developer from Russia.
-- 👨‍💻 I am currently working on developing a website in ReactJS
+- 👨‍💻 Currently i am developing websites using ReactJS
 - 💻 I also code in PHP / HTML-CSS
 
 ----
